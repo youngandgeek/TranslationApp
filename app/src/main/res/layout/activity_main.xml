@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E3D2CF"
+    android:layout_marginTop="1dp"
+
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/numbers"
+        style="@style/CategoryStyle"
+        android:layout_width="190dp"
+        android:layout_height="200dp"
+        android:background="@color/category_numbers"
+        android:drawableRight="@drawable/num"
+        android:text="@string/category_numbers" />
+
+
+
+
+    <TextView
+        android:id="@+id/family"
+        style="@style/CategoryStyle"
+        android:layout_width="190dp"
+        android:layout_height="200dp"
+        android:layout_below="@id/numbers"
+        android:layout_alignParentLeft="true"
+        android:background="@color/category_family"
+        android:drawableEnd="@drawable/f"
+        android:text="@string/category_family"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/colors"
+        style="@style/CategoryStyle"
+        android:layout_width="210dp"
+        android:layout_height="200dp"
+        android:layout_alignParentRight="true"
+        android:layout_toRightOf="@id/numbers"
+        android:background="@color/category_colors"
+        android:drawableRight="@drawable/pcolor"
+        android:padding="4dp"
+        android:textAlignment="center"
+        android:text="@string/category_colors" />
+    <TextView
+        android:id="@+id/phrases"
+        style="@style/CategoryStyle"
+        android:layout_width="210dp"
+        android:layout_height="200dp"
+        android:padding="4dp"
+        android:layout_below="@id/colors"
+        android:layout_alignParentRight="true"
+        android:layout_toRightOf="@id/family"
+        android:background="@color/category_phrases"
+        android:drawableEnd="@drawable/talking"
+        android:text="@string/category_phrases"
+        android:textAlignment="center" />
+
+</RelativeLayout>

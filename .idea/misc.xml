@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/TranslationApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.18055555555555555" />
+        <entry key="..\:/AndroidStudioProjects/TranslationApp/app/src/main/res/drawable/gradient.xml" value="0.17685185185185184" />
+        <entry key="..\:/AndroidStudioProjects/TranslationApp/app/src/main/res/drawable/ic_l.xml" value="0.13703703703703704" />
+        <entry key="..\:/AndroidStudioProjects/TranslationApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.13703703703703704" />
+        <entry key="..\:/AndroidStudioProjects/TranslationApp/app/src/main/res/font/.xml" value="0.1787037037037037" />
+        <entry key="..\:/AndroidStudioProjects/TranslationApp/app/src/main/res/font/rubik.xml" value="0.1787037037037037" />
+        <entry key="..\:/AndroidStudioProjects/TranslationApp/app/src/main/res/font/rubik_mono_one.xml" value="0.1787037037037037" />
+        <entry key="..\:/AndroidStudioProjects/TranslationApp/app/src/main/res/layout/activity_colors.xml" value="0.19655797101449277" />
+        <entry key="..\:/AndroidStudioProjects/TranslationApp/app/src/main/res/layout/activity_family_members.xml" value="0.19655797101449277" />
+        <entry key="..\:/AndroidStudioProjects/TranslationApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/TranslationApp/app/src/main/res/layout/activity_number.xml" value="0.19655797101449277" />
+        <entry key="..\:/AndroidStudioProjects/TranslationApp/app/src/main/res/layout/activity_phrases.xml" value="0.19655797101449277" />
+        <entry key="..\:/AndroidStudioProjects/TranslationApp/app/src/main/res/layout/list_item_layout.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/TranslationApp/app/src/main/res/layout/word_list.xml" value="0.1094224924012158" />
+        <entry key="..\:/AndroidStudioProjects/TranslationApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.13703703703703704" />
+        <entry key="..\:/AndroidStudioProjects/TranslationApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.18055555555555555" />
+        <entry key="..\:/AndroidStudioProjects/TranslationApp/app/src/main/res/xml/list_item_layout.xml" value="0.16802536231884058" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
