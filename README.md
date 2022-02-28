@@ -19,3 +19,5 @@ AudioManager / AudioManager.OnAudioFocusChangeListener / releaseMediaPlayerResou
 
 ![Screenshot_20220228-034022](https://user-images.githubusercontent.com/37903508/155911023-ceb11560-342b-4c92-96e3-6f1be8f88c6c.png)
 
+
+![Screenshot_20220228-034057](https://user-images.githubusercontent.com/37903508/155911052-eaef0ce2-8f17-4220-b2df-48d5b6de76e6.png)
